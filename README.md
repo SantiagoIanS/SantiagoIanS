@@ -16,4 +16,4 @@ JavaScript - Conhecimento raso, Tendo aula no 3° semestre sobre também, tive a
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoIansO&show_icons=true&theme=pokedex&count_private=true&hide=prs)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoIanSO&show_icons=true&theme=pokedex&count_private=true&hide=prs)
