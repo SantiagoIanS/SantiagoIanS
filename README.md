@@ -14,6 +14,4 @@ Python - Estou estudando, realizando algumas atividades de problemas de lógica.
 HTML, CSS - Realizando um site portfólio sobre mim, aprendendo no 3° semestre da faculdade e por conta própria.
 JavaScript - Conhecimento raso, Tendo aula no 3° semestre sobre também, tive aula no ensino médio mas não lembro muita coisa.
 
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoIanS&theme=black)
+![Programador em ação](https://media.giphy.com/media/3o7btNhPQXY0nv1Ffu/giphy.gif)
