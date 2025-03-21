@@ -1,17 +1,19 @@
-# Olá, me chamo Ian Santiago Silveira 🤟
+# Hello, my name's Ian Santiago Silveira 🤟
 
-Este é meu perfil do GitHub, onde terá alguns projetos realizados por mim.
+This is my GitHub profile, where you'll find some of my personal and profissional projects
 
-## Sobre mim
+## About me
 
-Tenho 19 anos, 2 gatos, toco guitarra, tenho uma banda e atualmente estou no 3° semestre no curso de **Ciências da Computação** na faculdade do sul de Santa Catarina, UNISUL.
+19y
 
-Atualmente estou trabalhando como **estagiário** no departamento de TI na PACCINI em Pedra Branca, Palhoça
+Currently in the 3° semester of **computer science** at southern Santa Catarina College (UNISUL).
+
+Working as a trainee in the IT department of PACCINI, a distributor of auto parts specializing in Automotive Cooling and Air Conditioning.
 
 ## Linguagens
 
-**Python** - Estou estudando, realizando algumas atividades de problemas de lógica. Descobrindo mais sobre a linguagem. 
+- **Python** 
 
-**HTML**, **CSS** - Realizando um site portfólio sobre mim, aprendendo no 3° semestre da faculdade e por conta própria.
+- **HTML**, **CSS**
 
-**JavaScript** - Conhecimento raso, Tendo aula no 3° semestre sobre também, tive aula no ensino médio mas não lembro muita coisa.
+- **JavaScript**
