@@ -10,10 +10,14 @@ Currently in the 3° semester of **computer science** at southern Santa Catarina
 
 Working as a trainee in the IT department of PACCINI, a distributor of auto parts specializing in Automotive Cooling and Air Conditioning.
 
-## Linguagens
+## Langauges and specialtes
 
 - **Python** 
 
 - **HTML**, **CSS**
 
 - **JavaScript**
+
+- **Windows**
+
+- **Linux**
