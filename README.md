@@ -10,6 +10,6 @@ Atualmente estou trabalhando como **estagiário** no departamento de TI na PACCI
 
 ## Linguagens
 
-Python - Estou estudando, realizando algumas atividades de problemas de lógica. Descobrindo mais sobre a linguagem.
-HTML, CSS - Realizando um site portfólio sobre mim, aprendendo no 3° semestre da faculdade e por conta própria.
-JavaScript - Conhecimento raso, Tendo aula no 3° semestre sobre também, tive aula no ensino médio mas não lembro muita coisa.
+**Python** - Estou estudando, realizando algumas atividades de problemas de lógica. Descobrindo mais sobre a linguagem.
+**HTML**, **CSS** - Realizando um site portfólio sobre mim, aprendendo no 3° semestre da faculdade e por conta própria.
+**JavaScript** - Conhecimento raso, Tendo aula no 3° semestre sobre também, tive aula no ensino médio mas não lembro muita coisa.
