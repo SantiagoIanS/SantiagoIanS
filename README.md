@@ -12,8 +12,6 @@ This is my GitHub profile, where you'll find some of my personal and profissiona
 
 - I have a band with some friends of mine, i  play the eletric guitar.
 
-- GMAIL: santiagosilveiraian@gmail.com
-
 ## Langauges and specialtes
 
 - **Python** 
